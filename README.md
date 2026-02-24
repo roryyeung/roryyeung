@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rory</h1>
-<h3 align="center">A part-time developer of utilities and small apps.</h3>
+<h3 align="center">PhD student at the University of Lancaster, investigating computational geophysics techniques.</h3>
 
-- 🔭 I’m currently working on [EDL Tools](https://github.com/roryyeung/edltools)
+- 🔭 I’m currently working on Surrogate Models.
 
-- 🌱 I’m currently learning **React, Python, Computer Science**
+- 🌱 I’m currently learning **Inverse Models & Machine Learning**
 
-- 📫 How to reach me **rory@roryyeung.com**
+- 📫 How to reach me **r.yeung1@lancaster.ac.uk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

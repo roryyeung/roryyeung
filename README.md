@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **r.yeung1@lancaster.ac.uk**
 
+- I used to work in TV!
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
